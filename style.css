@@ -1,0 +1,50 @@
+
+body {
+    background-image: url('blue.jpg');
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    margin-right: 8%;
+}
+
+.container {
+    text-align: center;
+    margin-top: 8%;
+}
+
+.button {
+    margin-top: 5px;
+    width: 75px;
+    height: 55px;
+    cursor: pointer;
+    background-color: rgb(190, 207, 255);
+    border: 2px solid rgb(17, 17, 139);
+    transition-duration: 0.2s;
+    border-radius: 4px;
+    font-size: larger;
+}
+
+.button:hover{
+    background-color: rgb(19, 19, 66);
+    color: white;
+} 
+
+.input {
+    width: 20%;
+    height: 30px;
+    margin: 10px;
+    border-radius: 4px;
+    background-color: rgb(216, 225, 250);
+}
+
+.zero {
+    width: 153px;
+}
+
+.color1 {
+    background-color: rgb(133, 253, 109);
+}
